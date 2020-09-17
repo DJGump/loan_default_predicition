@@ -1,5 +1,5 @@
 # Small Business Loans: Predicting Default
-Analyzing historical data to create the best model predicting if a loan will default or not. 
+By predicting if a loan will default, the Small Business Administration can better determine which loans need their support.
 
 The original data was taken from Kaggle, and can be found here: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied?select=SBAnational.csv
 
