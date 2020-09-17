@@ -1,6 +1,12 @@
 # Small Business Loans: Predicting Default
 By predicting if a loan will default, the Small Business Administration can better determine which loans need their support.
 
+* 2 Jupyter notebooks, for data cleaning and modeling
+* 1 PDF slide deck
+* A README
+* Various figure files used in the slides
+* A data folder, containing my cleaned data and source documentation.
+
 The original data was taken from Kaggle, and can be found here: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied?select=SBAnational.csv
 
 A description of the SBA loan program can be found here: https://www.sba.gov/offices/headquarters/ofa/resources/11421
