@@ -3,7 +3,7 @@ By predicting if a loan will default, the Small Business Administration can bett
 
 * 2 Jupyter notebooks, for data cleaning and modeling
 * 1 PDF slide deck
-* A README
+* A README (You are here. Thank you.)
 * Various figure files used in the slides
 * A data folder, containing my cleaned data and source documentation.
 
