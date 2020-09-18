@@ -3,7 +3,7 @@
 
 ##### Contents
 * 2 Jupyter notebooks, for data cleaning and modeling
-* A PDF slide deck, being the standalone synthesis of the project
+* A PDF slide deck, being the visual synthesis of the project
 * A README (You are here. Thank you.)
 * Various figure files used in the slides
 * A data folder, containing my cleaned data and source documentation.
