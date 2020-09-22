@@ -1,4 +1,4 @@
-# Small Business Loans: Predicting Default
+# Small Business Loans: Predicting Outcome
 
 
 ##### Contents
