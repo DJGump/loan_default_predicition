@@ -1,5 +1,6 @@
 # Small Business Loans: Predicting Outcome
 
+Data from the Small Business Administration was cleaned and analyzed. Several different classification models were built and compared to predict if a loan would default or be paid in full. The best model was tuned to prioritize recall, so as to correctly identify the greatest percent of defaulting loans. Full discussion, next steps, and business implications are provided alongside the code.
 
 ##### Contents
 * 2 Jupyter notebooks, for data cleaning and modeling
